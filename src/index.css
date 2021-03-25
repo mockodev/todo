@@ -1,5 +1,16 @@
 body {
   
   margin: 0;
-  background-color: black;
+  background-color:darkgreen;
+  
 }
+
+#root{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: space-around;
+  margin-top: 100px;
+  
+}
+ 
